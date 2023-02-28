@@ -1,0 +1,530 @@
+.u-block-063b-2 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-block-063b-3 {
+  position: absolute;
+  left: 0;
+}
+
+.u-block-063b-4 {
+  position: absolute;
+  right: 0;
+}
+
+ .u-section-1-1 {
+  background-image: url("images/sd_space_regulus_spaceship_astronaut_in_space_planet_picture_4K_102917f3-0843-4035-97ee-f05c74682ae61.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1-1 .u-sheet-1 {
+  min-height: 940px;
+}
+
+.u-section-1-1 .u-text-1 {
+  font-size: 4.5rem;
+  margin: 226px 619px 60px 46px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 771px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    margin-right: 465px;
+    margin-bottom: 0;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 591px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    font-size: 2.25rem;
+    margin-right: 245px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 443px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    margin-right: 65px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-1 .u-sheet-1 {
+    min-height: 420px;
+  }
+
+  .u-section-1-1 .u-text-1 {
+    width: auto;
+    margin-top: 31px;
+    margin-right: 0;
+    margin-bottom: 60px;
+  }
+}
+
+ .u-section-1-2 {
+  background-image: url("images/grid_0.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-1-2 .u-sheet-1 {
+  min-height: 941px;
+}
+
+.u-section-1-2 .u-text-1 {
+  font-size: 4.5rem;
+  margin: 222px 0 60px 482px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 771px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    margin-left: 282px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 590px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    font-size: 3rem;
+    margin-left: 62px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 443px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-2 .u-sheet-1 {
+    min-height: 420px;
+  }
+
+  .u-section-1-2 .u-text-1 {
+    font-size: 2.25rem;
+    width: auto;
+    margin-top: 80px;
+    margin-left: 82px;
+  }
+}
+
+ .u-section-1-3 {
+  background-image: url("images/sd_crypto_currency_AI_Crypto_Currency_Morden_design_picture_4K__8e07aee4-a229-4c1e-b4f4-d39ee56009c7.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1-3 .u-sheet-1 {
+  min-height: 943px;
+}
+
+.u-section-1-3 .u-text-1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  width: 562px;
+  margin: 631px auto 0;
+}
+
+.u-section-1-3 .u-text-2 {
+  margin: 13px 314px 60px 342px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 771px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    margin-top: 603px;
+  }
+
+  .u-section-1-3 .u-text-2 {
+    width: auto;
+    margin-right: 214px;
+    margin-bottom: 41px;
+    margin-left: 242px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 591px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    margin-top: 331px;
+  }
+
+  .u-section-1-3 .u-text-2 {
+    margin-right: 104px;
+    margin-bottom: 60px;
+    margin-left: 132px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 444px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    width: auto;
+    margin-top: 235px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1-3 .u-text-2 {
+    margin-right: 14px;
+    margin-bottom: 45px;
+    margin-left: 42px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1-3 .u-sheet-1 {
+    min-height: 420px;
+  }
+
+  .u-section-1-3 .u-text-1 {
+    margin-top: 166px;
+  }
+
+  .u-section-1-3 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 40px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 617px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 311px;
+  height: 311px;
+  margin: 0 auto;
+}
+
+.u-section-2 .u-text-1 {
+  margin: -18px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 1.125rem;
+  width: 745px;
+  margin: 37px auto 55px;
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-text-2 {
+    width: 340px;
+  }
+} .u-section-3 {
+  background-image: url("images/Loadmap.JPG");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 903px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 745px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 571px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 428px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 289px;
+  }
+}.u-section-4 .u-sheet-1 {
+  min-height: 480px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  width: 969px;
+  margin: 30px 74px 29px auto;
+}
+
+.u-section-4 .u-layout-cell-1 {
+  min-height: 431px;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px 0;
+}
+
+.u-section-4 .u-text-1 {
+  font-size: 1.875rem;
+  margin: 51px 20px 0;
+}
+
+.u-section-4 .u-btn-1 {
+  background-image: none;
+  font-size: 1.875rem;
+  padding: 0;
+}
+
+.u-section-4 .u-text-2 {
+  width: 245px;
+  margin: 63px auto 0;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 431px;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 431px;
+  background-image: url("images/Leonard_BAE_A_man_moving_toward_the_sun_in_line_with_this_anti-_d89eec8d-6958-490a-b6b2-48ad4fab5461.png");
+  background-position: 50% 50%;
+  background-size: auto 110%;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 30px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-layout-wrap-1 {
+    width: 940px;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 355px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 418px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 355px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 149px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 367px;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: auto;
+    margin-top: 46px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-4 .u-btn-1 {
+    font-size: 1.125rem;
+  }
+
+  .u-section-4 .u-text-2 {
+    width: auto;
+    margin-top: 48px;
+    margin-left: 12px;
+    margin-right: 12px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 320px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 272px;
+  }
+
+  .u-section-4 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-layout-wrap-1 {
+    width: 540px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 272px;
+    order: 2;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-top: 0;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 15px;
+    order: 1;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 600px;
+    order: 0;
+  }
+
+  .u-section-4 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 771px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-bottom: 0;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 361px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-bottom: 0;
+  }
+
+  .u-section-4 .u-text-1 {
+    font-size: 1.5rem;
+    margin-top: 23px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-top: 60px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 22px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 389px;
+  }
+} .u-section-5 {
+  background-image: url("images/DALLE2023-02-1117.10.24-StarofBethlehemisregulus.png");
+  background-position: 50% 51.59%;
+  padding: 0;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 626px;
+}
+
+.u-section-5 .u-form-1 {
+  height: 347px;
+  width: 570px;
+  margin: 173px auto 60px;
+}
+
+.u-section-5 .u-form-group-4 {
+  text-align: left;
+}
+
+.u-section-5 .u-btn-1 {
+  border-style: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 611px;
+  }
+
+  .u-section-5 .u-form-1 {
+    margin-top: 154px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 501px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 561px;
+  }
+
+  .u-section-5 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-form-1 {
+    width: 340px;
+  }
+}
